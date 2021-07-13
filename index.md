@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Convert.sol
 
-You can use the [editor on GitHub](https://github.com/voteit-top/convertsol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+That would be perfect if you needn't any type conversion while developing Solidity. but fact is you will have to convert one to another somewhile and you will find that is not easy to do that in Solidity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/voteit-top/convertsol/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Useful conversions
+## from string to uint
+## from string to int
+## from bytes to uint
+## from bytes to int
+## from bytes to bytes32
